@@ -1,0 +1,900 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEA_n9Iyov7-2v-BFvIQuHrO1VABR90lMtUGYChU6ehgZFz0SVFstQiXY_l4NBWSqDcP-gyKgJ75KEeaCx7TUDuHjYnUwE-5KdnL1jSeozAcg-WRtoz1hDq6jYX9jT5oO7-vt8x8TEJSeWjGJVzyfefYV9g5zIETEmDaoaQg-Muy4vDdm_KKrt58Y5BaMKnwKHhfO8pkqmrVq5cRmX0xXOW_LNk12WP5g8fBL3xPqQ3eefXLInUkBO3NyeuSPzHx5iFDSC6udq-w0hmLLAtyGYMj2VhnZOlgGgTk0IDIiEzg1TNGEIUuZRiYJJ2UkbbSAC0986tFjB9s_zsUvTC_zy6voYhkDBl0ipZ19NrxBST2xi1k99ZSKlRwY1qiuov6EnVkvw0moAQVKA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Soi Thoet Thai 20, Talat Phlu, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7195299,
+               "lng" : 100.4753485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72088287989272,
+                  "lng" : 100.4767111298927
+               },
+               "southwest" : {
+                  "lat" : 13.71818322010728,
+                  "lng" : 100.4740114701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Suriya Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106866561070886844522\"\u003eNpote N\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDDZfl6U6EnDagE_M2o4VaCQoKw5VIOZoUuq_NwPDBE9PrskjnsV6IBvw2pCOupRSd4Vjo1lS8I8VgqerBjmY36G4628N40qRyaXbSRvqEkE8ST70ffdIiQ7LTa-zK7F9-EhBcrcbYK_AsOe3VNPIdz3J0PDeGdPdDXETO4UVBB_Suz",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJQ7FinFyY4jARMRS3Daa3F78",
+         "plus_code" : {
+            "compound_code" : "PF9G+R4 Bangkok",
+            "global_code" : "7P52PF9G+R4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQ7FinFyY4jARMRS3Daa3F78",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "เลขที่ 1 ถนนเทอดไท ตลาดพลู Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7209947,
+               "lng" : 100.4773106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72231857989272,
+                  "lng" : 100.4786682298927
+               },
+               "southwest" : {
+                  "lat" : 13.71961892010728,
+                  "lng" : 100.4759685701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Suriya Coffee 100 Years",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100115370405432964462\"\u003eวรนุช สิริ\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDd_7ejwvLZSRw5S_YEl0nGpbMjwe5Owvf2smBZwt16LtG0ylAjmv-TEYJriTBztU2yYH2WQHzC9-7wWZC-0CHYCFhwxaXMnF4l4WqmKShdKGIM7nHUHdhZFwZjfz4ZOTtFSFWO3Oadw2cniS-SiwyIityppSDZsBGVtgIr7lQwiI5L",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJs375oPeZ4jARhCWmHrVKfEo",
+         "plus_code" : {
+            "compound_code" : "PFCG+9W Bangkok",
+            "global_code" : "7P52PFCG+9W"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJs375oPeZ4jARhCWmHrVKfEo",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Petchkasem Rd, Thapra, Bangkok Yai, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7289424,
+               "lng" : 100.4761209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.73031687989272,
+                  "lng" : 100.4774748798927
+               },
+               "southwest" : {
+                  "lat" : 13.72761722010728,
+                  "lng" : 100.4747752201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Asato San’s",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102927794744014074856\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAxitg9lXGhzsXyeIBlZ5eUB3x3nVRofcCvg-NeAryILBJFZjfztTRbZKmrl5FOUKsHzQxJ5sx-t6GMxgUYcC6YlPmanJPecGBjS6Oj7kteDxvZdpg9moDoKL4xlKpnq6JDTGxFj7SGVyeX4p6q69uHduSWc7333l2TXwF9EqKatRg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZzImOf-Z4jARDzH_N3tW8mg",
+         "plus_code" : {
+            "compound_code" : "PFHG+HC Bangkok",
+            "global_code" : "7P52PFHG+HC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZzImOf-Z4jARDzH_N3tW8mg",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "539 ถนนเทอดไท Bang Yi Ruea, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7197612,
+               "lng" : 100.482218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72111027989272,
+                  "lng" : 100.4835681798927
+               },
+               "southwest" : {
+                  "lat" : 13.71841062010728,
+                  "lng" : 100.4808685201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "ร้านกาแฟเจ๊จุกตามสั่ง",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117470222381454985948\"\u003eTanarat Tonglim\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBaQrT7QVfJlr6FFyAUSbTE0kOXgmxsS8DEtxYNJ5PDQQFpzNnnxxNUbLEN9EV1I5h_TW3SBoLecFV3RFZfIHZPilhDxq3YIb2RSmu61-qmosTXr59RmHU40i5n3-6K4cvn4F_3ydruO7Z7zpaStIw2ddfr-GJ3T5A0gy8jFTGlgRFx",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJRSWOwPGZ4jAR-19BQqvoi6s",
+         "plus_code" : {
+            "compound_code" : "PF9J+WV Bangkok",
+            "global_code" : "7P52PF9J+WV"
+         },
+         "rating" : 3,
+         "reference" : "ChIJRSWOwPGZ4jAR-19BQqvoi6s",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "PF87+C45, Pak Khlong Phasi Charoen, Phasi Charoen, กรุงเทพมหานคร 10150, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7160048,
+               "lng" : 100.4628639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71729107989272,
+                  "lng" : 100.4641586298927
+               },
+               "southwest" : {
+                  "lat" : 13.71459142010728,
+                  "lng" : 100.4614589701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe' Amazon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102364172573530622401\"\u003eTouch L\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAOFsx-8YFgpG_PANM0PQU9avSZ6DKpTRsfM3CvUwxYCaTVUD1sK4367_Yae5bMdI6IqTCfnOfp2pF3xZUvu76AI7o9236DbJ-QAel0_dRwerAVgU1IHjc0ffcpk6maD5H27CyNbtbWWcnYIbQ6BVnmH0lzaeM-Ojzx_m8Ryeb0hG1W",
+               "width" : 1712
+            }
+         ],
+         "place_id" : "ChIJKZYROSqZ4jARVKiOMqJv6BY",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJKZYROSqZ4jARVKiOMqJv6BY",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 40
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "99 Ratchadaphisek Rd, Dao Khanong, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7131642,
+               "lng" : 100.4796769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71453172989272,
+                  "lng" : 100.4813504298927
+               },
+               "southwest" : {
+                  "lat" : 13.71183207010728,
+                  "lng" : 100.4786507701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Coffee World",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117247926364924247119\"\u003eKaeRu Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED17uTF6MU1lZ1VHQUGgYPFZsYX0POSB4jpewfK142adOqMMgDa8QMa72IHX_N0IWsodtWC5DsvLytY3HwWJWKOHLgKNTXO-QWb1Fd5RfvimDat0pXLoAm7U690fV0Jxrde-wCz86peFGpFAQX5kZmpYZ7yR9WHi9o6ucfP7W9P6PAR",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ-aJgpGCY4jAR6bejOMcuLVg",
+         "plus_code" : {
+            "compound_code" : "PF7H+7V Bangkok",
+            "global_code" : "7P52PF7H+7V"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ-aJgpGCY4jAR6bejOMcuLVg",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 39
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "#ชั้น B 99/27 Ratchadaphisek Rd, Bukkhalo, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7137964,
+               "lng" : 100.4791066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71510362989272,
+                  "lng" : 100.4802422298927
+               },
+               "southwest" : {
+                  "lat" : 13.71240397010728,
+                  "lng" : 100.4775425701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Amazon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103595533211278886233\"\u003eNi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAY8Cp0E5cjwq1QsEeX22sPWcVp1AXhFBguKg6z8cz0f6Ztk3UbXjZDIJg9Zc8pITzsN_YkUFX9J6wCbzPxDn27LbF_fSZ5vA9yHbRha4ZImZkaoo3GyHrBx0WB-KfZ0rpF7cr1ZlkEW6SNlWlY5Bhla7Ffat3EFkZhBN7DbTz0ATHO",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJZQ9sq2CY4jARf7_Trx229xI",
+         "plus_code" : {
+            "compound_code" : "PF7H+GJ Bangkok",
+            "global_code" : "7P52PF7H+GJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJZQ9sq2CY4jARf7_Trx229xI",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "171 171 บุคคโล Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7151003,
+               "lng" : 100.4813977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71649102989272,
+                  "lng" : 100.4827264298927
+               },
+               "southwest" : {
+                  "lat" : 13.71379137010728,
+                  "lng" : 100.4800267701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "ร้านกาแฟอารมณ์ดี",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117089917897700626219\"\u003eMybill P\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-Ne1Rlchq_6sNCe_GPC4YcUwbGlSiH4E3jaY-Z6W82BWOR6_cgWeDVD0TMD-xLHeIh_Eq5109JY-1whbxVJZDnKFXjWYPJWOSLNBjDCQHywNG_D0hZYFniEXWjGe0o_5t8Px_TuNzJm_GDV2aOzXZIX6S_106tm7n_RR7DIo_rDPn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgy5umah9HTERMLGSmcAAO3k",
+         "plus_code" : {
+            "compound_code" : "PF8J+2H Bangkok",
+            "global_code" : "7P52PF8J+2H"
+         },
+         "rating" : 1,
+         "reference" : "ChIJgy5umah9HTERMLGSmcAAO3k",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "21/1 Khang Rongrapchamnam, Hiranruchi, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7303619,
+               "lng" : 100.4936531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.73149427989272,
+                  "lng" : 100.4949924298927
+               },
+               "southwest" : {
+                  "lat" : 13.72879462010728,
+                  "lng" : 100.4922927701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "ร้านไทยกาแฟ-บังใหญ่สี่แยกบ้านแขก",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117479336576155807347\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBwqZaN0GWk9pgK-x3kM1NvJi3XDk_TGfR4WechWtvPswd0BFsMJJuDY1SvbLvY6TdPKWaFAT9X-6SNgOHNCvPbKtO55mKVVcgJQDmHB3GOpzzgCBfQrcjnFc-9SVwuIqi0i2bm3ZVxA7q0VLWY8Jtj3WVlVBzpHh8UFJDhNcl86C0h",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJkzwtOwuZ4jARLLKsWn7WIcc",
+         "plus_code" : {
+            "compound_code" : "PFJV+4F Bangkok",
+            "global_code" : "7P52PFJV+4F"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJkzwtOwuZ4jARLLKsWn7WIcc",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "ติดร้านเวสป้า, 1/69 ร้านกิมมี่ กิมมี่ คาเฟ่ แอนด์ แกลลอรี่, ปาก Phet Kasem 25/4 Alley, บางหว้า, Phasi Charoen, Bangkok 10160, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7189753,
+               "lng" : 100.4550006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72035117989272,
+                  "lng" : 100.4563979298927
+               },
+               "southwest" : {
+                  "lat" : 13.71765152010727,
+                  "lng" : 100.4536982701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Gimme Gimme Cafe and Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 551,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105484200437715353764\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECTgyMNqsAZkR8KMg3LUVf6r-M_orWazB5QGaUdUkcZQcE3btrWfIx6o2cKYJw2FV8Kdwnc-rb5AYyr18oO_OJDkbIXuZojdEwT68f0TghI_MA24o5HJF2fMi8GWUXbZbjEC2Kfao0nbs6Fe7vcLPOnGuWQhdOR7LgW5EfZR5fvO-KA",
+               "width" : 828
+            }
+         ],
+         "place_id" : "ChIJ0czsCdiZ4jAR5lX61jZlIR8",
+         "plus_code" : {
+            "compound_code" : "PF94+H2 Bangkok",
+            "global_code" : "7P52PF94+H2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0czsCdiZ4jAR5lX61jZlIR8",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "34 Phaya Mai Rd, Somdet Chao Phraya, Khlong San, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7355172,
+               "lng" : 100.497476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.73690047989272,
+                  "lng" : 100.4988346298927
+               },
+               "southwest" : {
+                  "lat" : 13.73420082010728,
+                  "lng" : 100.4961349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "พญาไม้กาแฟ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110045844766662166759\"\u003eSuwannee Kanngan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC_YtJUu51SOlG-iQtr7qq83t4rccyoJF3-NghvBKprMKfg-KtJg-v2axUGr51ArHDA6PNPnSueb_nvfB8-9v7oRG-v0D2_lThn5gSq07S-S6018YcNzaajvBIGEbvqSRol0zxHep9HCWAE2_WJ3K4xYqE7LbBLeO4vUsY0fAC47KAt",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJq22pmeKY4jARZnmjiwp0mTo",
+         "plus_code" : {
+            "compound_code" : "PFPW+6X Bangkok",
+            "global_code" : "7P52PFPW+6X"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJq22pmeKY4jARZnmjiwp0mTo",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "333/1, Somdetprachaotaksin Rd., Kwang Bukaro, Kaet Samre, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.714835,
+               "lng" : 100.4893326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71613852989272,
+                  "lng" : 100.4906896798927
+               },
+               "southwest" : {
+                  "lat" : 13.71343887010728,
+                  "lng" : 100.4879900201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Sapha Coffee Shop-Samre Post Office",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107430898419427716740\"\u003ewiwat piyakul\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAKSViqKhURtgd6Qcyc31cMEJYKfiD2CZKghzmmezV6zSiCepyBEMYVStvIPQyMj6KXxTpiAnnFdkPoeC6ELvv32Iyjel4G6vWHoI5qZ3tUwMdTqySEefFDMVqAY1jhVJHsQCP3uFrAZicC0Aem2XfYsm2azPBFNQDQHe8vC5sZ4-0z",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ5ey0D_CZ4jAR2572mN9l9Ss",
+         "plus_code" : {
+            "compound_code" : "PF7Q+WP Bangkok",
+            "global_code" : "7P52PF7Q+WP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ5ey0D_CZ4jAR2572mN9l9Ss",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1058 Charoen Nakhon Rd, Bang Lamphu Lang, Khlong San, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7107652,
+               "lng" : 100.4976695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.71201987989272,
+                  "lng" : 100.4990784798927
+               },
+               "southwest" : {
+                  "lat" : 13.70932022010728,
+                  "lng" : 100.4963788201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "เจ๊จู กาแฟเจริญนคร - นมสด ผลไม้ปั่น",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108219478203763885337\"\u003eJJ. DSRY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQbLrzJeNPgGpz6zwE5oOeQ0COfezzOhQf4RZ9jRT5e8Q15j7ZPn4oV6jvPKXiFD2nhmMqBCyQQR2bOy1Wb9fMEWfwdy08fVdRbrf-jgTxf7pRFNRm4uW7UfD7eBh6pPUuEw-XVDUlki6uWW0sXpISXnVRpFm3-Q4Kia5NvSeZqREf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu8UR9pKY4jARyoNvPgQMq2A",
+         "plus_code" : {
+            "compound_code" : "PF6X+83 Bangkok",
+            "global_code" : "7P52PF6X+83"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJu8UR9pKY4jARyoNvPgQMq2A",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "184 Soi Somdet Phra Chao Tak Sin 8, Bukkhalo, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7192973,
+               "lng" : 100.4890514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72065087989272,
+                  "lng" : 100.4904000798927
+               },
+               "southwest" : {
+                  "lat" : 13.71795122010728,
+                  "lng" : 100.4877004201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "เจ้ฝน กาแฟโบราณ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqW2DoPaY4jAR4zVSYcpxkOU",
+         "plus_code" : {
+            "compound_code" : "PF9Q+PJ Bangkok",
+            "global_code" : "7P52PF9Q+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJqW2DoPaY4jAR4zVSYcpxkOU",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "79 Maha Rat Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.743289,
+               "lng" : 100.494112
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.74456292989272,
+                  "lng" : 100.4954176298927
+               },
+               "southwest" : {
+                  "lat" : 13.74186327010728,
+                  "lng" : 100.4927179701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café Amazon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106490660813410743431\"\u003eWeerasak Somboonthanakij\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECHE3ZWBvrBDxl4ZdoyjobW9YvqRK-rVK1Y3Q6Kng7Bo_ipTG--R4FHrhlwRrs2nqdy8uklb_zBLkVvIaOCzhzitRUI-u0vCx4mxRuIorg_QkRKkfpbgibsYg0uE0UeHdnCaV9-kWq5VpoWTdMYORbLe8-uG1T2o6f_Ho8L53cLlZI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJezD2vASZ4jARS27qadfl118",
+         "plus_code" : {
+            "compound_code" : "PFVV+8J Bangkok",
+            "global_code" : "7P52PFVV+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJezD2vASZ4jARS27qadfl118",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "21 Thoet Thai 22 Alley, ตลาดพลู, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7208905,
+               "lng" : 100.4747051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72224882989272,
+                  "lng" : 100.4760887298927
+               },
+               "southwest" : {
+                  "lat" : 13.71954917010728,
+                  "lng" : 100.4733890701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "D'cup54",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 668,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109409785521092302501\"\u003ePanthapat Sumrittisut\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDJF6KQ-SKTdLr-uCwXbwWGdSbQSzFzP9aj3ny8d-8xeRGf_A3jGEYD-PNY3SmTq3sfAwTlYi5NowhPtrnhbV7TXB6A-PVES5fTMFWx_lz-rRSR3abucTTUHG6DFX7Rz8AJ2Bi5Zhs08RgZtHcvQzDvM_O8alnhrGpLjb_-oDDeCHlN",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJG7liUHOZ4jARS_YVr6G5mLI",
+         "plus_code" : {
+            "compound_code" : "PFCF+9V Bangkok",
+            "global_code" : "7P52PFCF+9V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJG7liUHOZ4jARS_YVr6G5mLI",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bang Yi Ruea, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7219799,
+               "lng" : 100.4807864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72333622989272,
+                  "lng" : 100.4821540298927
+               },
+               "southwest" : {
+                  "lat" : 13.72063657010728,
+                  "lng" : 100.4794543701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "บ้านกาแฟโบราณ & ชา",
+         "place_id" : "ChIJezuEDlmY4jARBqTCoTgSefA",
+         "plus_code" : {
+            "compound_code" : "PFCJ+Q8 Bangkok",
+            "global_code" : "7P52PFCJ+Q8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJezuEDlmY4jARBqTCoTgSefA",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10, 344 Soi Thoet Thai 10, Bang Yi Ruea, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7232874,
+               "lng" : 100.481393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72445187989272,
+                  "lng" : 100.4825643298927
+               },
+               "southwest" : {
+                  "lat" : 13.72175222010728,
+                  "lng" : 100.4798646701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "สุริยากาแฟ ตลาดวัดกลาง",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101932746969017509768\"\u003eGigg Hom\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDRc7QBlvUFM_aOZzTtSxzqzrGMiEFozPs8s8MZIa1Hx0xDx5LEl-2aUc29_qpc-H4PF3hkDD0HYH_WH9SeQW5qwHmg4F5euA1B_GothiZOyXW8wPV7exZKDYSMVWU4mmH-wF3Mi7ne_hOM4iT50y0icEPmCTSJqKI-27Tr2VYhoA9z",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJswiUsVmY4jARKsZJvsU5Dcs",
+         "plus_code" : {
+            "compound_code" : "PFFJ+8H Bangkok",
+            "global_code" : "7P52PFFJ+8H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJswiUsVmY4jARKsZJvsU5Dcs",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1333/9 Soi Thoet Thai 33, Talat Phlu, Thon Buri, Bangkok 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7202074,
+               "lng" : 100.4753773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72154052989272,
+                  "lng" : 100.4766587798927
+               },
+               "southwest" : {
+                  "lat" : 13.71884087010728,
+                  "lng" : 100.4739591201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Abc Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 834,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116983401754108711847\"\u003eTuchmun Phonpiboonsoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA279CCGHqTeruOU2AyXjKy2-pB_ZDXxHwiX3IBR9ZPq19ir_PbbmMaB6aePUFTfEho1aAepz3KMEwmaCCDeueD4gMFOtlJO3qcIoJUYsyquCU-cYgdGruDE0c46fuTc9ee768ka5YZeMK-sTRhPnXz302YHtU4YYcCGQ-sZ8UZYCAn",
+               "width" : 1167
+            }
+         ],
+         "place_id" : "ChIJ_31hY1uY4jAR_2wbbUAoZBA",
+         "plus_code" : {
+            "compound_code" : "PFCG+35 Bangkok",
+            "global_code" : "7P52PFCG+35"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ_31hY1uY4jAR_2wbbUAoZBA",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "กรุมทใไมมพงเทพมหานคร ค 93 73 Phet Kasem 7, 10600, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7269391,
+               "lng" : 100.4770948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.72835422989272,
+                  "lng" : 100.4785729298927
+               },
+               "southwest" : {
+                  "lat" : 13.72565457010728,
+                  "lng" : 100.4758732701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Sook Kasem Cafe",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115586222811893766905\"\u003eYuvadee Charoensuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECE-n1GBhKHvHIHmXIHuM0hQO3bf6b_Bh_glSMSDkW5Dn03_m3Mn_qGzd8vROcu59bIHLxEhKxQuFmj30mQ-NDZ18Kln2s_U7QhFaJzYamIKCfl-TizLYr9THzId5fwS8IsYAuAzF50LKIuUGbmiZmzgLLDPXaUKFTTHjP9FB5bRBDI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJG7npxEeZ4jARKCGUhBRCcfU",
+         "plus_code" : {
+            "compound_code" : "PFGG+QR Bangkok",
+            "global_code" : "7P52PFGG+QR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJG7npxEeZ4jARKCGUhBRCcfU",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      }
+   ],
+   "status" : "OK"
+}
