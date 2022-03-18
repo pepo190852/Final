@@ -1,0 +1,150 @@
+---
+title: "collecttwitterdata"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# load twitter library - the rtweet library is recommended now over twitteR
+library(rtweet)
+library(dplyr)
+library(tidytext)
+Sys.setlocale("LC_CTYPE","UTF-8")
+
+appname <- "testcafe"
+key <- "hQvZW1LD3bXF5WyxrdJokA0BN"
+secret <- "5WkrXpSnS4QfG2McuGSYiAmaAkEOKtVKtGaqblcRQ80l2N2XeT"
+
+access_token <- "1433069808350756869-hz0S9YXuxwWI3ruLBmfrQTEfPhWoid"
+access_secret <- "BT0qpLSCTFP4x7v8jK9OlNn1h9526dnP1pOepluDH2hv8"
+
+# create token named "twitter_token"
+twitter_token <- create_token(
+  app = appname,
+  consumer_key = key,
+  consumer_secret = secret,
+  access_token = access_token,
+  access_secret = access_secret)
+```
+
+```{r}
+# collect data from twitter
+datatest <- search_tweets(q = "ตู่",n = 1000,include_rts = TRUE)
+datatest <- datatest[datatest$is_retweet == "FALSE",] #filterเอาเฉพาะโพสต้นทาง
+Summary <- union(Summary,test) #รวมข้อมูล
+Summary <- Summary[!duplicated(Summary[,c("status_id")]),] #ตัดข้อมูลที่ซ้ำออก
+```
+
+```{r}
+#Text
+Testtext <- Summary$text
+Text <- data_frame(Testtext)
+write.table(Text,"text3.csv", row.names = FALSE,col.names = FALSE)
+write.table(Text,"statusid.csv", row.names = FALSE,col.names = FALSE)
+```
+
+```{r}
+#Text
+Testtext <- datatest$text
+Text <- data_frame(Testtext)
+write.table(Text,"datatest.csv", row.names = FALSE,col.names = FALSE)
+write.table(Text,"statusid.csv", row.names = TRUE,col.names = FALSE)
+```
+
+```{r}
+library(readr)
+cafe <- read_csv("cafe.csv")
+name <- cafe$name
+x <- paste("ร้านกาแฟเชียงใหม่ AND ",name)
+```
+
+```{r}
+for(i in 1:100) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r}
+for(i in 100:200) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+
+
+```{r}
+for(i in 200:300) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r }
+for(i in 300:400) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r }
+for(i in 400:500) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r}
+for(i in 500:600) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r}
+for(i in 600:700) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r}
+for(i in 700:752) {
+  assign(paste("df",i,name[i], sep = ""),
+         search_tweets(q = x[i],n = 18000,include_rts = TRUE))
+}
+```
+
+```{r}
+## create a function that returns a logical value
+isEmpty <- function(x) {
+    is.data.frame(x) && nrow(x) == 0L
+}
+## apply it over the environment
+empty <- unlist(eapply(.GlobalEnv, isEmpty))
+## remove the empties
+rm(list = names(empty)[empty])
+```
+
+```{r}
+rm(list = ls()[grepl("df", ls())])
+```
+
+```{r การเพิ่มชื่อร้านกาแฟ}
+`df619Simply Happy` <- `df619Simply Happy` %>%
+  add_column(cafe_name = "Simply Happy",
+             .before = "user_id") 
+```
+
+```{r รวมร้านกาแฟ}
+list = ls()[grepl("df", ls())]
+cafedata <- rbind(`df204The Baristro`,`df332เมา กาแฟ`,df403Omnia,`df456Oasis Café`,`df619Simply Happy`)
+```
+
+```{r}
+cafedata$status_id
+```
